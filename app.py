@@ -130,4 +130,3 @@ elif page == "Data Visualization":
         title='MPG by Origin'
     )
     st.altair_chart(chart, use_container_width=True)
-
